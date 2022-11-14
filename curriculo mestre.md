@@ -9,10 +9,15 @@
 ---
 ### EXPERIENCE
 
-#### Machine Learning Engineer - BairesDev @ Pinterest
-_October 2021 - Present_
+#### Data Scientist / Machine Learning Engineer - Haul 
+_August 2022 - Present_
 
-I am working with Ads Quality team at Pinterest refactoring their CBO (Campaign Budget Optimization) product, improving it's code readability, developer experience and manutenability. I am also analysing data regarding budget and expends on ads, helping anouncers improve their performance and expends per ad.
+I currently workin as Data Scientist and Machine Learning Engineer delivering business analytics to C-level and product and operation team. Also, I am reponsible to develop and integrate Machine Learning models to the product.
+
+#### Machine Learning Engineer - BairesDev @ Pinterest
+_October 2021 - August 2022_
+
+I worked with Ads Quality team at Pinterest refactoring their CBO (Campaign Budget Optimization) product, improving it's code readability, developer experience and manutenability. I also analysed data regarding budget and expends on ads, helping anouncers improve their performance and expends per ad.
 
 #### Data Scientist • Banco do Brasil
 _November 2019 - December 2021_
@@ -49,6 +54,7 @@ Universidade de Brasília – UnB (2005-2009)
 ### MAIN COMPETENCES AND SKILLS
 - Analytical Capacity
 - Python
+- AWS stack (Sagemaker, Lambda, S3, Redshift)
 - TensorFlow (TensorFlow Serving)
 - Python Data Stack (Pandas, Scipy, Sklearn, Numpy, Mathplotlib)
 - Natural Language Processing (NLP) – NLTK, Word2Vec
